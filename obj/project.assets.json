@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Demo\\Demo\\Demo.csproj",
+      "projectUniqueName": "c:\\Projects\\Demo\\Demo\\FirstRepo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "C:\\Projects\\Demo\\Demo\\Demo.csproj",
+      "projectPath": "c:\\Projects\\Demo\\Demo\\FirstRepo\\Demo.csproj",
       "packagesPath": "C:\\Users\\jyee\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Demo\\Demo\\obj\\",
+      "outputPath": "c:\\Projects\\Demo\\Demo\\FirstRepo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
